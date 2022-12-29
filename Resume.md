@@ -118,11 +118,9 @@ Systems administration: Linux, Zabbix, Bash, PostgreSQL, MySQL, JBoss, Backup, O
 Programming: PHP, Zend Framework, Oracle, CSS, HTML, jQuery, MVC, OOP, Zend Framework, JQuery, JSON, XML, SVN, MySQL, MVC, POO, OO, ajax, Hadoop, Hive, Impala, Hue, Git, CI/CD, Bash, Python, Script, Automation, Ingestion, HDFS, Kudu, SQL, Views, ETL
 Infrastructure: Citrix virtualization, VLAN, SSH, iptables, Windows, Backup, GPS tracking
 
-
 ## Professional Skills:
 Team management: Coordinating teams and projects
 Troubleshooting: Strong skills in identifying and resolving issues
 Documentation: Ability to document processes and configurations
 ITIL: Implementation and management of ITIL processes
 Migrations: Planning and coordinating system migrations, including monitoring and follow-up to ensure success
----
