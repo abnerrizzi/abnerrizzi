@@ -1,37 +1,17 @@
-## Abner Rizzi
-```
-abner.rizzi@gmail.com
-Goiania/Brazil (BRT/GMT-3)
-```
+# Abner Rizzi
+## Linux System Engineer
+### Goiania/Brazil (BRT/GMT-3)
+https://www.linkedin.com/in/abner.rizzi | abner.rizzi @ gmail . com 
 
 
-# Educational Background Concise:
-```
-Completed a course in Logica programming and Clipper (Mar/1992 - Oct/1992)
-Earned a degree in Computer Networking Technology (Jan/2005 - Jun/2007)
-Completed an intensive English language course (Jun/2017 - Jan/2018)
-```
 # Educational Background Detailed:
-```
-Completed a course in Logica programming and Clipper at WS Informatica in Brazil (Mar/1992 - Oct/1992), gaining a strong foundation in programming.
-Earned a degree in Computer Networking Technology at Faculdade UniAnhanguera in Brazil (Jan/2005 - Jun/2007), developing strong troubleshooting skills through coursework and hands-on experience.
-Completed an intensive English language course at Griffith College Cork in Ireland (Jun/2017 - Jan/2018), improving my English communication skills.
-```
-#
-```
-Completed a course in Logica programming and Clipper at WS Informatica in Brazil (Mar/1992 - Oct/1992), gaining a strong foundation in programming.
-Earned a degree in Computer Networking Technology at Faculdade UniAnhanguera in Brazil (Jan/2005 - Jun/2007), developing strong troubleshooting skills through coursework and hands-on experience.
-Completed an intensive English language course at Griffith College Cork in Ireland (Jun/2017 - Jan/2018), unlocking my full potential for effective communication in English.
-
-```
+- Completed a course in **Logica programming and Clipper** at WS Informatica in Brazil (Mar/1992 - Oct/1992), gaining a strong **foundation in programming**.
+- Earned a degree in Computer Networking Technology at Faculdade UniAnhanguera in Brazil (Jan/2005 - Jun/2007), developing strong **troubleshooting skills** through coursework and hands-on experience.
+- Completed an **intensive English language** course at Griffith College Cork **in Ireland8* (Jun/2017 - Jan/2018), improving my **English communication** skills.
 
 
 # Summary:
 I am a highly experienced programmer with over 15 years of hands-on experience with Linux and related technologies, 10 years of programming experience in PHP and Bash, and 3 years of experience with firewall and network technologies. I am skilled in programming and troubleshooting and able to effectively resolve Linux issues.
-
-
-
-
 
 
 # Work Experiences (detailed)
@@ -128,6 +108,20 @@ Achievements:
 
 
 ## Computer Operator | Casa Uniao | Jan 1995 – Mar 1999 (4 yrs 3 mos)
-Data Processing in COBOL system;
-Backup management in Xenix environment;
-Computer Maintenance;
+- Data Processing in COBOL system, Backup management in Xenix environment
+- Computer Maintenance
+
+
+# Skills
+## Technical Skills:
+Systems administration: Linux, Zabbix, Bash, PostgreSQL, MySQL, JBoss, Backup, OCS, GLPI, Docker, Traefik, Network, Firewall, Automation, High Availability, Bacula, TOTVS, TOTVS RM, Ubuntu, Git, Gitlab, XenServer, VLAN
+Programming: PHP, Zend Framework, Oracle, CSS, HTML, jQuery, MVC, OOP, Zend Framework, JQuery, JSON, XML, SVN, MySQL, MVC, POO, OO, ajax, Hadoop, Hive, Impala, Hue, Git, CI/CD, Bash, Python, Script, Automation, Ingestion, HDFS, Kudu, SQL, Views, ETL
+Infrastructure: Citrix virtualization, VLAN, SSH, iptables, Windows, Backup, GPS tracking
+
+
+## Professional Skills:
+Team management: Coordinating teams and projects
+Troubleshooting: Strong skills in identifying and resolving issues
+Documentation: Ability to document processes and configurations
+ITIL: Implementation and management of ITIL processes
+Migrations: Planning and coordinating system migrations, including monitoring and follow-up to ensure success
