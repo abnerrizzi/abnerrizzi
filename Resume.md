@@ -11,7 +11,7 @@ https://www.linkedin.com/in/abner.rizzi | abner.rizzi @ gmail . com
 
 
 # Summary:
-I am a highly experienced programmer with over 15 years of hands-on experience with Linux and related technologies, 10 years of programming experience in PHP and Bash, and 3 years of experience with firewall and network technologies. I am skilled in programming and troubleshooting and able to effectively resolve Linux issues.
+I am a highly experienced **programmer with over 15 years of hands-on experience** with Linux and related technologies, 10 years of programming experience in PHP and Bash, and 3 years of experience with firewall and network technologies. I am also **skilled in troubleshooting** and able to effectively resolve Linux issues.
 
 
 # Work Experiences (detailed)
@@ -26,7 +26,7 @@ Technical Skills:
 
 Achievements:
 - Successfully migrated a custom framework from CDH to CDP
-Implemented a smooth transition from on-premises GitLab to a custom framework-managed GitHub
+- Implemented a smooth transition from on-premises GitLab to a custom framework-managed GitHub
 - Refactored a large repository into smaller ones to enable more efficient and independent work for each team
 
 
@@ -125,3 +125,4 @@ Troubleshooting: Strong skills in identifying and resolving issues
 Documentation: Ability to document processes and configurations
 ITIL: Implementation and management of ITIL processes
 Migrations: Planning and coordinating system migrations, including monitoring and follow-up to ensure success
+---
