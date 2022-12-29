@@ -24,19 +24,6 @@ Earned a degree in Computer Networking Technology at Faculdade UniAnhanguera in 
 Completed an intensive English language course at Griffith College Cork in Ireland (Jun/2017 - Jan/2018), unlocking my full potential for effective communication in English.
 
 ```
-#
-```
-```
-#
-```
-```
-#
-```
-```
-#
-```
-```
-#
 
 
 # Summary:
