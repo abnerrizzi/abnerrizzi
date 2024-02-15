@@ -1,5 +1,7 @@
 👋 Hi, I’m Abner Rizzi!
+
 📫 You can reach me at: abner.rizzi@gmail.com
+
 💻 Preference for Black Terminal over Colored Windows | Problem-Solving Enthusiast
 
 
