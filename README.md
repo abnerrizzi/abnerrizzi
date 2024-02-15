@@ -2,8 +2,9 @@
 
 📫 You can reach me at: abner.rizzi@gmail.com
 
-💻 Preference for Black Terminal over Colored Windows | Problem-Solving Enthusiast
+💻 Prefers Black Terminal
 
+🛠️ Problem-Solving Enthusiast
 
 <!---
 - 👋 Hi, I’m @abnerrizzi
